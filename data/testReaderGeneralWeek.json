@@ -1,0 +1,57 @@
+{"week": [
+    {
+      "notes": [
+        {"note": "deadlifted today"},
+        {"note": "ran 2km"}
+      ],
+      "workouts": [{
+        "duration": 15,
+        "type": "cardio",
+        "calories burned": 100
+      }],
+      "diet": [{
+        "carbohydrates": 0,
+        "protein": 0,
+        "name": "water",
+        "fat": 0,
+        "calories": 0
+      }],
+      "day": "sunday"
+    },
+    {
+      "notes": [],
+      "workouts": [],
+      "diet": [],
+      "day": "monday"
+    },
+    {
+      "notes": [],
+      "workouts": [],
+      "diet": [],
+      "day": "tuesday"
+    },
+    {
+      "notes": [],
+      "workouts": [],
+      "diet": [],
+      "day": "wednesday"
+    },
+    {
+      "notes": [],
+      "workouts": [],
+      "diet": [],
+      "day": "thursday"
+    },
+    {
+      "notes": [],
+      "workouts": [],
+      "diet": [],
+      "day": "friday"
+    },
+    {
+      "notes": [],
+      "workouts": [],
+      "diet": [],
+      "day": "saturday"
+    }
+]}

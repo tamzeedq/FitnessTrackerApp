@@ -1,0 +1,79 @@
+{"week": [
+    {
+        "notes": [{"note": "test1"}],
+        "workouts": [],
+        "diet": [
+            {
+                "carbohydrates": 12,
+                "protein": 12,
+                "name": "test1",
+                "fat": 12,
+                "calories": 12
+            },
+            {
+                "carbohydrates": 123,
+                "protein": 123,
+                "name": "test2",
+                "fat": 123,
+                "calories": 123
+            }
+        ],
+        "day": "sunday"
+    },
+    {
+        "notes": [],
+        "workouts": [],
+        "diet": [],
+        "day": "monday"
+    },
+    {
+        "notes": [],
+        "workouts": [],
+        "diet": [],
+        "day": "tuesday"
+    },
+    {
+        "notes": [],
+        "workouts": [],
+        "diet": [],
+        "day": "wednesday"
+    },
+    {
+        "notes": [],
+        "workouts": [],
+        "diet": [],
+        "day": "thursday"
+    },
+    {
+        "notes": [
+            {"note": "test5"},
+            {"note": "test6"}
+        ],
+        "workouts": [
+            {
+                "duration": 123,
+                "type": "test6",
+                "calories burned": 123
+            },
+            {
+                "duration": 234,
+                "type": "test13",
+                "calories burned": 234
+            }
+        ],
+        "diet": [{
+            "carbohydrates": 2342,
+            "protein": 23423,
+            "name": "test5345",
+            "fat": 423,
+            "calories": 234
+        }],
+        "day": "friday"
+    },
+    {
+        "notes": [],
+        "workouts": [],
+        "diet": [],
+        "day": "saturday"
+    }
+]}
