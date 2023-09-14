@@ -1,7 +1,5 @@
 # My Personal Project
 
-An example of text with **bold** and *italic* fonts.  
-
 ## What will the application do?
 The application will allow user to log their workouts and diet.
 In their logs they can keep track of what type of workout they did, for how long, and
