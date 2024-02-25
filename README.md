@@ -32,11 +32,11 @@ track and stay motivated.
 
 
 
-##Phase 4: Task 2
+## Phase 4: Task 2
 
 ![img.png](EventLogRepresentative.png)
 
-##Phase 4: Task 3
+## Phase 4: Task 3
 
 ![img_1.png](UML_Class_Diagram.png)
 
